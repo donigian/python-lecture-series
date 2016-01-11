@@ -10,3 +10,7 @@
 [Intro to Python Google Class](https://developers.google.com/edu/python/?hl=en)
 
 [Anaconda : Python Distribution](https://www.continuum.io/downloads)
+
+[Python Compiler Workbench](https://github.com/pgbovine/PythonCompilerWorkbench)
+
+[Python bytecode assembler-disassembler](https://code.google.com/p/byteplay/)
